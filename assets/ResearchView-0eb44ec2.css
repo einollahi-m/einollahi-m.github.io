@@ -1,0 +1,1 @@
+.research_list_item{margin:2rem 0;display:flex;gap:1rem}.research_list_item .paper_image{width:400px;height:auto}@media (max-width: 1024px){.research_list_item .paper_image{display:none}}.research_list_item .research_list_item_descriptipn{font-size:medium;text-align:left;text-indent:1rem;align-self:center}
